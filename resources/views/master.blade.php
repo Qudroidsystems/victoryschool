@@ -11,7 +11,7 @@
 
     <!-- Google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet">
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('html/assets2/all-study/images/vcc-logo.png')}}" />
 
     <!-- Bootstrap -->
     <link href="{{ asset('html/assets2/all-study/assets/css/bootstrap.min.css')}}" rel="stylesheet">
