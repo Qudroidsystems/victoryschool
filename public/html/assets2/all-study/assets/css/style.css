@@ -845,7 +845,7 @@ header .menu_cart .check_out:hover{
 }
 .header-two{}
 .header-two .header-top{
-    background-color: #ffb400;
+    background-color: #40f26d;
 }
 .header-two .header-top .left li, .header-two .header-top .left li span,
 .header-two .header-top .right li, .header-two .header-top .right li a{
@@ -907,10 +907,10 @@ header .menu_cart .check_out:hover{
     opacity: 1;
 }
 .header-two .main-menu .navbar-toggle .icon-bar{
-    background-color: #fff;
+    background-color: #12411d;
 }
 .header-two .main-menu{
-    background-color: #6c5ebf;
+    background-color: #0f4a21;
 }
 .header-two .main-menu ul li a{
     text-transform: uppercase;
