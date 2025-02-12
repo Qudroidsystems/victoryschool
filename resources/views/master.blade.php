@@ -142,7 +142,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="/"><img src="{{ asset('html/assets2/all-study/images/victory/vcc-logo.png')}}" alt="logo" class="img-responsive"></a>
+					<a class="navbar-brand" href="/"><img src="{{ asset('html/assets2/all-study/images/victory/vcc-logo.png')}}" alt="logo" width="60px" hieght="60px" class="img-responsive"></a>
 			    </div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
