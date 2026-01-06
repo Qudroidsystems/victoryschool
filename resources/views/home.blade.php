@@ -207,7 +207,7 @@
 
 
   	<!-- Teachers Start here -->
-  	<section class="teachers padding-120">
+  	{{-- <section class="teachers padding-120">
 		<div class="container">
 			<div class="section-header">
 				<h3>Meet Our Dedicated Teachers</h3>
@@ -273,7 +273,8 @@
 				</div>
 			</div><!-- row -->
 		</div><!-- container -->
-  	</section><!-- teacher -->
+  	</section> --}}
+    <!-- teacher -->
   	<!-- Teachers End here -->
 
 
