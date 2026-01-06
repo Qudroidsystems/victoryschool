@@ -9,14 +9,11 @@
 			    	<div class="banner-overlay"></div>
 			      	<div class="container">
 				        <div class="banner-content">
-				        	<h3>Batter Education For Batter World</h3>
-				        	<h2>The Best Education Theme</h2>
-				        	<p>Completely conceptualize enterprise processes after synergistic template and infomediaries.
-                                        Conveniently transition awesome theme customer.
-                            </p>
+				        	<h3>Building Brighter Futures Together</h3>
+				        	<h2>The Best Education Starts Here</h2>
+				        	<p>At All Study Citadel, we inspire curiosity, nurture talent, and empower every child to reach their full potential in a supportive and innovative learning environment.</p>
 							<ul>
-								<li><a href="#" class="button-default">Read More</a></li>
-
+								<li><a href="#" class="button-default">Discover More</a></li>
 							</ul>
 				        </div><!-- banner-content -->
 			      	</div><!-- container -->
@@ -25,14 +22,11 @@
 			    	<div class="banner-overlay"></div>
 			      	<div class="container">
 				        <div class="banner-content">
-				        	<h3>Batter Education For Batter World</h3>
-				        	<h2>The Best Education Centre</h2>
-				        	<p>Completely conceptualize enterprise processes after synergistic template and infomediaries.
-                               Conveniently transition awesome theme customer.
-                            </p>
+				        	<h3>Where Learning Comes Alive</h3>
+				        	<h2>Your Child’s Journey to Excellence</h2>
+				        	<p>We combine academic rigor with creativity and character development, preparing students not just for exams, but for life.</p>
 							<ul>
-								<li><a href="#" class="button-default">Read More</a></li>
-
+								<li><a href="#" class="button-default">Explore Our Programs</a></li>
 							</ul>
 				        </div><!-- banner-content -->
 			      	</div><!-- container -->
@@ -41,19 +35,15 @@
 			    	<div class="banner-overlay"></div>
 			      	<div class="container">
 				        <div class="banner-content">
-				        	<h3>Batter Education For Batter World</h3>
-				        	<h2>The Best Education Centre</h2>
-				        	<p>Completely conceptualize enterprise processes after synergistic template and infomediaries.
-                                        Conveniently transition awesome theme customer.
-                            </p>
+				        	<h3>Education That Shapes Tomorrow</h3>
+				        	<h2>Join a Community of Achievers</h2>
+				        	<p>Our dedicated teachers, modern facilities, and holistic approach help every student shine — academically, socially, and personally.</p>
 							<ul>
-								<li><a href="#" class="button-default">Read More</a></li>
-
+								<li><a href="#" class="button-default">Take the First Step</a></li>
 							</ul>
 				        </div><!-- banner-content -->
 			      	</div><!-- container -->
 		    	</div><!-- slide item -->
-
 		  	</div><!-- swiper-wrapper -->
 		  	<div class="swiper-pagination"></div>
         </div><!-- swiper-container -->
@@ -64,54 +54,15 @@
   	<!-- About Start here -->
   	<section class="about padding-120">
   		<div class="container">
-  			<h3>Welcome To Our All Study Citadel</h3>
-  			<h4>Creative Thinking for Education Template</h4>
-  			<p>Phosrescently ntiate principle centered networks via magnetic services about Entusiasticaly streamline fulys tested metrics without freproof we services enabled Rapidiously evisculate a standards compliant fullys tested metrics without futureproof web services anfullys tested metrics without futureproof web servicesexperiences bricks clicks are aparadigmsRapidiously evisculate standards compliant web services are afor error free Assertively engineer Rapidiously Rapidiously evisculate standards compliant web services are afor error free</p>
+  			<h3>Welcome to All Study Citadel</h3>
+  			<h4>Inspiring Creative Minds Since Day One</h4>
+  			<p>At All Study Citadel, we believe every child deserves an education that sparks curiosity, builds confidence, and prepares them for a successful future. Our experienced teachers create engaging lessons that blend academic excellence with real-world skills, emotional growth, and creativity. We focus on small class sizes, personalized attention, and a safe, joyful environment where students thrive every single day.</p>
   			<ul>
-  				<li><a href="#" class="button-default">Read More</a></li>
-
+  				<li><a href="#" class="button-default">Learn More About Us</a></li>
   			</ul>
   		</div><!-- container -->
   	</section>
   	<!-- About End here -->
-
-
-  	<!-- Services Start here -->
-  	{{-- <section class="services section-bg padding-120">
-  		<div class="container">
-  			<div class="section-header">
-  				<h3>Our Facilities</h3>
-  				<p>Rapidiously expedite granular imperatives before economically sound web services. Credibly actualize pandemic strategic themeplatform.</p>
-  			</div>
-  			<div class="row">
-  				<div class="col-md-4 col-sm-4 col-xs-12">
-  					<div class="service-item">
-  						<span class="icon flaticon-student"></span>
-  						<h4>Skilled Lecturers</h4>
-  						<p>Aolaboraively eenable vira niche market Uniquely maintain hghly eficient prduct for and goaloriented human.</p>
-  						<a href="services.html">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
-  					</div>
-  				</div>
-  				<div class="col-md-4 col-sm-4 col-xs-12">
-  					<div class="service-item">
-  						<span class="icon flaticon-open-book-top-view"></span>
-  						<h4>Books & Library</h4>
-  						<p>Aolaboraively eenable vira niche market Uniquely maintain hghly eficient prduct for and goaloriented human.</p>
-  						<a href="services.html">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
-  					</div>
-  				</div>
-  				<div class="col-md-4 col-sm-4 col-xs-12">
-  					<div class="service-item">
-  						<span class="icon flaticon-symbols"></span>
-  						<h4>Scholarship Facility</h4>
-  						<p>Aolaboraively eenable vira niche market Uniquely maintain hghly eficient prduct for and goaloriented human.</p>
-  						<a href="services.html">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
-  					</div>
-  				</div>
-  			</div><!-- row -->
-  		</div><!-- container -->
-  	</section> --}}
-  	<!-- Services End here -->
 
 
   	<!-- Achievements Start here -->
@@ -122,29 +73,29 @@
 		            <div class="col-md-3 col-sm-6 col-xs-12">
 		              <div class="achievement-item">
 		              	<i class="icon flaticon-student"></i>
-		                <span class="counter">500</span>
-		                <p>Students Enrolled</p>
+		                <span class="counter">500+</span>
+		                <p>Happy Students Enrolled</p>
 		              </div><!-- achievement item -->
 		            </div>
 		            <div class="col-md-3 col-sm-6 col-xs-12">
 		              <div class="achievement-item">
 		              	<i class="icon flaticon-cup"></i>
 		                <span class="counter">12</span>
-		                <p>Best Awards Won</p>
+		                <p>Awards for Excellence</p>
 		              </div><!-- achievement item -->
 		            </div>
 		            <div class="col-md-3 col-sm-6 col-xs-12">
 		              <div class="achievement-item">
 		              	<i class="icon flaticon-drawing"></i>
-		                <span class="counter">370</span>
-		                <p>Classes Completed</p>
+		                <span class="counter">370+</span>
+		                <p>Classes Successfully Completed</p>
 		              </div><!-- achievement item -->
 		            </div>
 		            <div class="col-md-3 col-sm-6 col-xs-12">
 		              <div class="achievement-item">
 		              	<i class="icon flaticon-book"></i>
 		                <span class="counter">64</span>
-		                <p>Our Total Courses</p>
+		                <p>Quality Courses Offered</p>
 		              </div><!-- achievement item -->
 		            </div>
 		          </div><!-- row -->
@@ -154,210 +105,11 @@
   	<!-- Achievements End here -->
 
 
-  	<!-- Courses Start here -->
-  	{{-- <section class="courses padding-120">
-  		<div class="container">
-  			<div class="section-header">
-  				<h3>Popular Online Courses</h3>
-  				<p>Rapidiously expedite granular imperatives before economically sound web services. Credibly actualize pandemic strategic themeplatform.</p>
-  			</div>
-  			<div class="row">
-  				<div class="col-md-4 col-sm-6 col-xs-12">
-  					<div class="course-item">
-  						<div class="image">
-  							<img src="images/courses/course_01.jpg')}}" alt="course image" class="img-responsive">
-  							<span><sup>$</sup>200</span>
-  						</div>
-  						<div class="content">
-  							<h4><a href="course-single.html">Uficiently Dsenate Colabor</a></h4>
-  							<ul>
-  								<li><span><i class="fa fa-user" aria-hidden="true"></i></span> <a href="#">Robot Smith</a></li>
-  								<li>|</li>
-  								<li><span><i class="fa fa-calendar" aria-hidden="true"></i></span> <a href="#">24 April 2017 </a></li>
-  							</ul>
-  							<p>Aolaboraively eenable vira niche markets Compelngly evsculate funcnal mndshare through forand goaloriented</p>
-	  						<div class="bottom">
-	  							<ul>
-	  								<li><span><i class="fa fa-users" aria-hidden="true"></i></span> <a href="#">730</a></li>
-	  								<li><span><i class="fa fa-comment" aria-hidden="true"></i></span> <a href="#">350</a></li>
-	  							</ul>
-	  							<div class="course-rating">
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  							</div>
-	  						</div>
-  						</div><!-- content -->
-  					</div><!-- course item -->
-  				</div>
-  				<div class="col-md-4 col-sm-6 col-xs-12">
-  					<div class="course-item">
-  						<div class="image">
-  							<img src="images/courses/course_02.jpg')}}" alt="course image" class="img-responsive">
-  							<span>Free</span>
-  						</div>
-  						<div class="content">
-  							<h4><a href="course-single.html">Awesome Solutions a Study</a></h4>
-  							<ul>
-  								<li><span><i class="fa fa-user" aria-hidden="true"></i></span> <a href="#">Robot Smith</a></li>
-  								<li>|</li>
-  								<li><span><i class="fa fa-calendar" aria-hidden="true"></i></span> <a href="#">24 April 2017 </a></li>
-  							</ul>
-  							<p>Aolaboraively eenable vira niche markets Compelngly evsculate funcnal mndshare through forand goaloriented</p>
-	  						<div class="bottom">
-	  							<ul>
-	  								<li><span><i class="fa fa-users" aria-hidden="true"></i></span> <a href="#">730</a></li>
-	  								<li><span><i class="fa fa-comment" aria-hidden="true"></i></span> <a href="#">350</a></li>
-	  							</ul>
-	  							<div class="course-rating">
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  							</div>
-	  						</div>
-  						</div><!-- content -->
-  					</div><!-- course item -->
-  				</div>
-  				<div class="col-md-4 col-sm-6 col-xs-12">
-  					<div class="course-item">
-  						<div class="image">
-  							<img src="images/courses/course_03.jpg')}}" alt="course image" class="img-responsive">
-  							<span><sup>$</sup>550</span>
-  						</div>
-  						<div class="content">
-  							<h4><a href="course-single.html">Disenatre Are Colaborative</a></h4>
-  							<ul>
-  								<li><span><i class="fa fa-user" aria-hidden="true"></i></span> <a href="#">Robot Smith</a></li>
-  								<li>|</li>
-  								<li><span><i class="fa fa-calendar" aria-hidden="true"></i></span> <a href="#">24 April 2017 </a></li>
-  							</ul>
-  							<p>Aolaboraively eenable vira niche markets Compelngly evsculate funcnal mndshare through forand goaloriented</p>
-	  						<div class="bottom">
-	  							<ul>
-	  								<li><span><i class="fa fa-users" aria-hidden="true"></i></span> <a href="#">730</a></li>
-	  								<li><span><i class="fa fa-comment" aria-hidden="true"></i></span> <a href="#">350</a></li>
-	  							</ul>
-	  							<div class="course-rating">
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  							</div>
-	  						</div>
-  						</div><!-- content -->
-  					</div><!-- course item -->
-  				</div>
-  				<div class="col-md-4 col-sm-6 col-xs-12">
-  					<div class="course-item">
-  						<div class="image">
-  							<img src="images/courses/course_04.jpg')}}" alt="course image" class="img-responsive">
-  							<span><sup>$</sup>500</span>
-  						</div>
-  						<div class="content">
-  							<h4><a href="course-single.html">Uficiently Dsenate Colabor</a></h4>
-  							<ul>
-  								<li><span><i class="fa fa-user" aria-hidden="true"></i></span> <a href="#">Robot Smith</a></li>
-  								<li>|</li>
-  								<li><span><i class="fa fa-calendar" aria-hidden="true"></i></span> <a href="#">24 April 2017 </a></li>
-  							</ul>
-  							<p>Aolaboraively eenable vira niche markets Compelngly evsculate funcnal mndshare through forand goaloriented</p>
-	  						<div class="bottom">
-	  							<ul>
-	  								<li><span><i class="fa fa-users" aria-hidden="true"></i></span> <a href="#">730</a></li>
-	  								<li><span><i class="fa fa-comment" aria-hidden="true"></i></span> <a href="#">350</a></li>
-	  							</ul>
-	  							<div class="course-rating">
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  							</div>
-	  						</div>
-  						</div><!-- content -->
-  					</div><!-- course item -->
-  				</div>
-  				<div class="col-md-4 col-sm-6 col-xs-12">
-  					<div class="course-item">
-  						<div class="image">
-  							<img src="images/courses/course_05.jpg')}}" alt="course image" class="img-responsive">
-  							<span><sup>$</sup>250</span>
-  						</div>
-  						<div class="content">
-  							<h4><a href="course-single.html">Awesome Solutions a Study</a></h4>
-  							<ul>
-  								<li><span><i class="fa fa-user" aria-hidden="true"></i></span> <a href="#">Robot Smith</a></li>
-  								<li>|</li>
-  								<li><span><i class="fa fa-calendar" aria-hidden="true"></i></span> <a href="#">24 April 2017 </a></li>
-  							</ul>
-  							<p>Aolaboraively eenable vira niche markets Compelngly evsculate funcnal mndshare through forand goaloriented</p>
-	  						<div class="bottom">
-	  							<ul>
-	  								<li><span><i class="fa fa-users" aria-hidden="true"></i></span> <a href="#">730</a></li>
-	  								<li><span><i class="fa fa-comment" aria-hidden="true"></i></span> <a href="#">350</a></li>
-	  							</ul>
-	  							<div class="course-rating">
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  							</div>
-	  						</div>
-  						</div><!-- content -->
-  					</div><!-- course item -->
-  				</div>
-  				<div class="col-md-4 col-sm-6 col-xs-12">
-  					<div class="course-item">
-  						<div class="image">
-  							<img src="images/courses/course_06.jpg')}}" alt="course image" class="img-responsive">
-  							<span><sup>$</sup>700</span>
-  						</div>
-  						<div class="content">
-  							<h4><a href="course-single.html">Disenatre Are Colaborative</a></h4>
-  							<ul>
-  								<li><span><i class="fa fa-user" aria-hidden="true"></i></span> <a href="#">Robot Smith</a></li>
-  								<li>|</li>
-  								<li><span><i class="fa fa-calendar" aria-hidden="true"></i></span> <a href="#">24 April 2017 </a></li>
-  							</ul>
-  							<p>Aolaboraively eenable vira niche markets Compelngly evsculate funcnal mndshare through forand goaloriented</p>
-	  						<div class="bottom">
-	  							<ul>
-	  								<li><span><i class="fa fa-users" aria-hidden="true"></i></span> <a href="#">730</a></li>
-	  								<li><span><i class="fa fa-comment" aria-hidden="true"></i></span> <a href="#">350</a></li>
-	  							</ul>
-	  							<div class="course-rating">
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  								<span><i class="fa fa-star" aria-hidden="true"></i></span>
-	  							</div>
-	  						</div>
-  						</div><!-- content -->
-  					</div><!-- course item -->
-  				</div>
-
-  			</div><!-- row -->
-  			<div class="courses-button">
-  				<a href="courses.html" class="button-default">View All Courses</a>
-  			</div>
-  		</div><!-- container -->
-  	</section> --}}
-    <!-- courses -->
-  	<!-- Courses End here -->
-
-
   	<!-- Gallery Start here -->
   	<section class="gallery gallery-two section-bg padding-120">
 		<div class="section-header">
-			<h3>Our School  Gallery</h3>
-			<p>Rapidiously expedite granular imperatives before economically sound web services. Credibly actualize pandemic strategic themeplatform.</p>
+			<h3>Our School Gallery</h3>
+			<p>Capturing the joy of learning, friendship, and unforgettable moments at All Study Citadel.</p>
 		</div>
 
         <div class="gallery-two-items">
@@ -367,8 +119,8 @@
             	<div class="gallery-overlay"><div class="bg"></div></div>
             	<div class="gallery-content">
             		<a href="{{ asset('html/assets2/all-study/images/victory/5.jpg')}}" data-rel="lightcase:myCollection"><i class="icon flaticon-expand"></i></a>
-            		<h4>Product Name Here</h4>
-            		<span>By: Kidschool Theme</span>
+            		<h4>Science Lab Discovery Day</h4>
+            		<span>Hands-on experiments that spark curiosity</span>
             	</div>
             </div>
           </div><!-- gallery item -->
@@ -378,8 +130,8 @@
             	<div class="gallery-overlay"><div class="bg"></div></div>
             	<div class="gallery-content">
             		<a href="{{ asset('html/assets2/all-study/images/victory/6.jpg')}}" data-rel="lightcase:myCollection"><i class="icon flaticon-expand"></i></a>
-            		<h4>Product Name Here</h4>
-            		<span>By: Kidschool Theme</span>
+            		<h4>Sports Day Victory Moments</h4>
+            		<span>Team spirit and healthy competition</span>
             	</div>
             </div>
           </div><!-- gallery item -->
@@ -389,19 +141,19 @@
             	<div class="gallery-overlay"><div class="bg"></div></div>
             	<div class="gallery-content">
             		<a href="{{ asset('html/assets2/all-study/images/victory/7.jpg')}}" data-rel="lightcase:myCollection"><i class="icon flaticon-expand"></i></a>
-            		<h4>Product Name Here</h4>
-            		<span>By: Kidschool Theme</span>
+            		<h4>Art Exhibition Showcase</h4>
+            		<span>Creative expressions from our talented students</span>
             	</div>
             </div>
           </div><!-- gallery item -->
           <div class="gallery-item">
             <div class="gallery-image">
-            	<img src="{{ asset('html/assets2/all-study/images/victory/8')}}" alt="gallery image" class="img-responsive">
+            	<img src="{{ asset('html/assets2/all-study/images/victory/8.jpg')}}" alt="gallery image" class="img-responsive">
             	<div class="gallery-overlay"><div class="bg"></div></div>
             	<div class="gallery-content">
             		<a href="{{ asset('html/assets2/all-study/images/victory/8.jpg')}}" data-rel="lightcase:myCollection"><i class="icon flaticon-expand"></i></a>
-            		<h4>Product Name Here</h4>
-            		<span>By: Kidschool Theme</span>
+            		<h4>Annual Cultural Day</h4>
+            		<span>Celebrating diversity and tradition</span>
             	</div>
             </div>
           </div><!-- gallery item -->
@@ -411,8 +163,8 @@
             	<div class="gallery-overlay"><div class="bg"></div></div>
             	<div class="gallery-content">
             		<a href="{{ asset('html/assets2/all-study/images/victory/9.jpg')}}" data-rel="lightcase:myCollection"><i class="icon flaticon-expand"></i></a>
-            		<h4>Product Name Here</h4>
-            		<span>By: Kidschool Theme</span>
+            		<h4>Group Study & Teamwork</h4>
+            		<span>Learning together, growing together</span>
             	</div>
             </div>
           </div><!-- gallery item -->
@@ -422,8 +174,8 @@
             	<div class="gallery-overlay"><div class="bg"></div></div>
             	<div class="gallery-content">
             		<a href="{{ asset('html/assets2/all-study/images/victory/10.jpg')}}" data-rel="lightcase:myCollection"><i class="icon flaticon-expand"></i></a>
-            		<h4>Product Name Here</h4>
-            		<span>By: Kidschool Theme</span>
+            		<h4>Outdoor Learning Adventure</h4>
+            		<span>Nature as our classroom</span>
             	</div>
             </div>
           </div><!-- gallery item -->
@@ -433,8 +185,8 @@
             	<div class="gallery-overlay"><div class="bg"></div></div>
             	<div class="gallery-content">
             		<a href="{{ asset('html/assets2/all-study/images/victory/11.jpg')}}" data-rel="lightcase:myCollection"><i class="icon flaticon-expand"></i></a>
-            		<h4>Product Name Here</h4>
-            		<span>By: Kidschool Theme</span>
+            		<h4>Assembly Performance</h4>
+            		<span>Building confidence on stage</span>
             	</div>
             </div>
           </div><!-- gallery item -->
@@ -444,8 +196,8 @@
             	<div class="gallery-overlay"><div class="bg"></div></div>
             	<div class="gallery-content">
             		<a href="{{ asset('html/assets2/all-study/images/victory/12.jpg')}}" data-rel="lightcase:myCollection"><i class="icon flaticon-expand"></i></a>
-            		<h4>Product Name Here</h4>
-            		<span>By: Kidschool Theme</span>
+            		<h4>Friendly Faces & Big Smiles</h4>
+            		<span>Where every child feels at home</span>
             	</div>
             </div>
           </div><!-- gallery item -->
@@ -458,8 +210,8 @@
   	<section class="teachers padding-120">
 		<div class="container">
 			<div class="section-header">
-				<h3>Meet Our Teachers</h3>
-				<p>Rapidiously expedite granular imperatives before economically sound web services. Credibly actualize pandemic strategic themeplatform.</p>
+				<h3>Meet Our Dedicated Teachers</h3>
+				<p>Our passionate educators bring expertise, care, and inspiration to every lesson — helping your child thrive every day.</p>
 			</div>
 			<div class="row">
 				<div class="col-md-4 col-sm-4 col-xs-12">
@@ -468,8 +220,9 @@
 							<img src="{{ asset('html/assets2/all-study/images/teachers/teacher_01.jpg')}}" alt="teacher image" class="img-responsive">
 						</div>
 						<div class="teacher-content">
-							<h4><a href="teacher-profile.html">Robot Jhonson</a></h4>
-							<span>Math Teacher</span>
+							<h4><a href="teacher-profile.html">Mr. Robert Johnson</a></h4>
+							<span>Mathematics Specialist</span>
+							<p>With over 10 years of experience, Mr. Johnson makes numbers exciting and helps students build strong problem-solving skills.</p>
 							<ul class="teacher-share">
 				  				<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 				  				<li><a href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
@@ -486,8 +239,9 @@
 							<img src="{{ asset('html/assets2/all-study/images/teachers/teacher_02.jpg')}}" alt="teacher image" class="img-responsive">
 						</div>
 						<div class="teacher-content">
-							<h4><a href="teacher-profile.html">Janaton Doe</a></h4>
-							<span>English Teacher</span>
+							<h4><a href="teacher-profile.html">Ms. Janaton Doe</a></h4>
+							<span>English & Literature Expert</span>
+							<p>Ms. Doe loves stories and helps students discover the power of words through reading, writing, and creative expression.</p>
 							<ul class="teacher-share">
 				  				<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 				  				<li><a href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
@@ -504,8 +258,9 @@
 							<img src="{{ asset('html/assets2/all-study/images/teachers/teacher_03.jpg')}}" alt="teacher image" class="img-responsive">
 						</div>
 						<div class="teacher-content">
-							<h4><a href="teacher-profile.html">Alex Jhonson</a></h4>
-							<span>Art Teacher</span>
+							<h4><a href="teacher-profile.html">Mr. Alex Johnson</a></h4>
+							<span>Art & Creative Design Teacher</span>
+							<p>Mr. Johnson encourages imagination and self-expression, turning every art class into a joyful journey of discovery.</p>
 							<ul class="teacher-share">
 				  				<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 				  				<li><a href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
@@ -516,205 +271,40 @@
 						</div>
 					</div><!-- teacher item -->
 				</div>
-
 			</div><!-- row -->
 		</div><!-- container -->
   	</section><!-- teacher -->
   	<!-- Teachers End here -->
 
 
-  	<!-- Testimonial Start here -->
-  	<section class="testimonial">
-  		<div class="overlay padding-120">
-			<div class="testimonial-items">
-				<div class="testimonial-slider swiper-container">
-				  	<div class="swiper-wrapper">
-						<div class="testimonial-item swiper-slide">
-						  	<div class="testimonial-image">
-						  		<img src="{{ asset('html/assets2/all-study/images/testimonial/testimonial_01.jpg')}}" alt="client image" class="img-responsive">
-						  	</div>
-						  	<p>Authoritatively facilitate client and acentric opportunities after state of the  leadership and onveniently and prodctivate frictionless products revolutionary uthoritatively facilitate clientcentric conveniently productivate frictionless products through revolutionary.</p>
-						  	<h4>Robot Jhonson</h4>
-						  	<span>Student 1st Year</span>
-						</div><!-- testimonial-item -->
-						<div class="testimonial-item swiper-slide">
-						  	<div class="testimonial-image">
-						  		<img src="{{ asset('html/assets2/all-study/images/testimonial/testimonial_02.jpg')}}" alt="client image" class="img-responsive">
-						  	</div>
-						  	<p>Authoritatively facilitate client and acentric opportunities after state of the  leadership and onveniently and prodctivate frictionless products revolutionary uthoritatively facilitate clientcentric conveniently productivate frictionless products.</p>
-						  	<h4>Janaton Doe</h4>
-						  	<span>Student 2nd Year</span>
-						</div><!-- testimonial-item -->
-						<div class="testimonial-item swiper-slide">
-						  	<div class="testimonial-image">
-						  		<img src="{{ asset('html/assets2/all-study/images/testimonial/testimonial_03.jpg')}}" alt="client image" class="img-responsive">
-						  	</div>
-						  	<p>Authoritatively facilitate client and acentric opportunities after state of the  leadership and onveniently and prodctivate frictionless products revolutionary uthoritatively facilitate clientcentric conveniently productivate frictionless products through.</p>
-						  	<h4>Alex Jhonson</h4>
-						  	<span>Student 3rd Year</span>
-						</div><!-- testimonial-item -->
-
-				  	</div><!-- swiper-wrapper -->
-			  		<div class="testimonial-button-prev"></div>
-					<div class="testimonial-button-next"></div>
-				</div><!-- swiper-container -->
-	        </div><!-- testimonial-items -->
-  		</div><!-- overlay -->
-  	</section><!-- testimonial -->
-  	<!-- Testimonial End here -->
-
-
   	<!-- Pricing Start here -->
-  	<section class="pricing padding-120">
+  	{{-- <section class="pricing padding-120">
   		<div class="container">
 	      <div class="section-header">
-	        <h3>Our School Fees</h3>
-	        <p>Rapidiously expedite granular imperatives before economically sound web services. Credibly actualize pandemic strategic themeplatform.</p>
+	        <h3>Our Transparent School Fees</h3>
+	        <p>Affordable quality education with everything your child needs to succeed — included in one clear package.</p>
 	      </div>
 	      <div class="row">
 	      	<div class="col-md-4 col-sm-6 col-xs-12">
 	      		<div class="pricing-item">
 	      			<div class="title">
-	      				<h3>JSS 1 <span><sup>&#8358;
-                        </sup>52000</span></h3>
+	      				<h3>JSS 1 <span><sup>₦</sup>52,000</span></h3>
 	      			</div>
 	      			<div class="content">
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> Tuition Fee</p>
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> School Uniforms</p>
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> School Books</p>
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> School Lessons</p>
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> Medicals</p>
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> Vocational Studies</p>
+	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> Full Tuition & Academic Support</p>
+	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> School Uniforms (2 Sets)</p>
+	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> Textbooks & Learning Materials</p>
+	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> Weekly Lessons & Assessments</p>
+	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> Medical Check-ups & First Aid</p>
+	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> Vocational & Life Skills Classes</p>
 	      			</div>
 	      			<div class="bottom">
-	      				{{-- <a href="#" class="button-default">Purchase Now</a> --}}
+	      				<!-- <a href="#" class="button-default">Enroll Now</a> -->
 	      			</div>
 	      		</div><!-- pricing item -->
 	      	</div>
-	      	{{-- <div class="col-md-4 col-sm-6 col-xs-12">
-	      		<div class="pricing-item">
-	      			<div class="title">
-	      				<h3>Monthly <span><sup>$</sup>49</span></h3>
-	      			</div>
-	      			<div class="content">
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> Free Access</p>
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> 2 GB Storage</p>
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> 20 GB Bandwith</p>
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> 5 Products</p>
-	      				<p><i class="fa fa-times-circle close" aria-hidden="true"></i> 7 Users Accounts</p>
-	      				<p><i class="fa fa-times-circle close" aria-hidden="true"></i> 24/7 Support</p>
-	      			</div>
-	      			<div class="bottom">
-	      				<a href="#" class="button-default">Purchase Now</a>
-	      			</div>
-	      		</div><!-- pricing item -->
-	      	</div>
-	      	<div class="col-md-4 col-sm-6 col-xs-12">
-	      		<div class="pricing-item">
-	      			<div class="title">
-	      				<h3>Yearly <span><sup>$</sup>99</span></h3>
-	      			</div>
-	      			<div class="content">
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> Free Access</p>
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> 2 GB Storage</p>
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> 20 GB Bandwith</p>
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> 5 Products</p>
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> 7 Users Accounts</p>
-	      				<p><i class="fa fa-check-circle" aria-hidden="true"></i> 24/7 Support</p>
-	      			</div>
-	      			<div class="bottom">
-	      				<a href="#" class="button-default">Purchase Now</a>
-	      			</div>
-	      		</div><!-- pricing item -->
-	      	</div> --}}
 	      </div><!-- row -->
-
-  		</div><!-- container -->
-  	</section>
-  	<!-- Pricing End here -->
-
-
-    <!-- Blog Start here -->
-    {{-- <section class="blog section-bg padding-120">
-	    <div class="container">
-	      <div class="section-header">
-	        <h3>From Our Blog</h3>
-	        <p>Rapidiously expedite granular imperatives before economically sound web services. Credibly actualize pandemic strategic themeplatform.</p>
-	      </div>
-	      <div class="blog-items">
-	        <div class="row">
-	          <div class="col-md-4 col-sm-6 col-xs-12">
-	            <div class="blog-item">
-	              <div class="blog-image">
-	                <a href="single.html"><img src="images/blog/blog_01.jpg')}}" alt="blog image" class="img-responsive"></a>
-	              </div>
-	              <div class="blog-content">
-	                <h4><a href="single.html">Actanualze Cententrc Staled</a></h4>
-	                <p>Comptely actuaze cent centric coloratons an shang without ainstalled and awesome kidschool PSD Template.</p>
-	              </div>
-	              <ul>
-	                <li><a href="#"><span class="icon flaticon-calendar"></span>22.04.2017</a></li>
-	                <li><a href="#"><span class="icon flaticon-like"></span>24 Like</a></li>
-	                <li><a href="#"><span class="icon flaticon-chat"></span>24 Comment</a></li>
-	              </ul>
-	            </div><!-- blog item -->
-	          </div>
-	          <div class="col-md-4 col-sm-6 col-xs-12">
-	            <div class="blog-item">
-	              <div class="blog-image">
-	                <a href="single.html"><img src="images/blog/blog_02.jpg')}}" alt="blog image" class="img-responsive"></a>
-	              </div>
-	              <div class="blog-content">
-	                <h4><a href="single.html">Actanualze Cententrc Staled</a></h4>
-	                <p>Comptely actuaze cent centric coloratons an shang without ainstalled and awesome kidschool PSD Template.</p>
-	              </div>
-	              <ul>
-	                <li><a href="#"><span class="icon flaticon-calendar"></span>22.04.2017</a></li>
-	                <li><a href="#"><span class="icon flaticon-like"></span>24 Like</a></li>
-	                <li><a href="#"><span class="icon flaticon-chat"></span>24 Comment</a></li>
-	              </ul>
-	            </div><!-- blog item -->
-	          </div>
-	          <div class="col-md-4 col-sm-6 col-xs-12">
-	            <div class="blog-item">
-	              <div class="blog-image">
-	                <a href="single.html"><img src="images/blog/blog_03.jpg')}}" alt="blog image" class="img-responsive"></a>
-	              </div>
-	              <div class="blog-content">
-	                <h4><a href="single.html">Actanualze Cententrc Staled</a></h4>
-	                <p>Comptely actuaze cent centric coloratons an shang without ainstalled and awesome kidschool PSD Template.</p>
-	              </div>
-	              <ul>
-	                <li><a href="#"><span class="icon flaticon-calendar"></span>22.04.2017</a></li>
-	                <li><a href="#"><span class="icon flaticon-like"></span>24 Like</a></li>
-	                <li><a href="#"><span class="icon flaticon-chat"></span>24 Comment</a></li>
-	              </ul>
-	            </div><!-- blog item -->
-	          </div>
-	        </div><!-- row -->
-	      </div><!-- blog items -->
-	    </div><!-- container -->
-    </section> --}}
-    <!-- blog -->
-    <!-- Blog End here -->
-
-
-  	<!-- Subscribe Start here -->
-  	{{-- <section class="subscribe">
-  		<div class="container">
-  			<div class="row">
-  				<div class="col-md-5 col-sm-12 col-xs-12">
-  					<h3>Join Our Newsletter</h3>
-  				</div>
-  				<div class="col-md-7 col-sm-12 col-xs-12">
-  					<form action="https://labartisan.net/">
-		  				<input type="text" placeholder="Enter your e-mail here">
-		  				<input type="submit" value="Subscribe Now">
-		  			</form>
-  				</div>
-  			</div><!-- row -->
   		</div><!-- container -->
   	</section> --}}
-    <!-- subscribe -->
-  	<!-- Subscribe End here -->
+  	<!-- Pricing End here -->
 @endsection
