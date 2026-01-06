@@ -43,7 +43,8 @@
     <!-- Responsive -->
     <link href="{{ asset('html/assets2/all-study/assets/css/responsive.css')}}" rel="stylesheet">
 
-
+<!-- AOS Animate On Scroll -->
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   </head>
   <body id="scroll-top">
 	  	{{-- <table class="loader">
@@ -285,7 +286,16 @@
   	</footer>
     <a class="page-scroll scroll-top" href="#scroll-top"><i class="fa fa-angle-up" aria-hidden="true"></i></a>
   	<!-- Footer End here -->
-
+<!-- AOS Animate On Scroll -->
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init({
+        duration: 800,    // Animation duration (ms)
+        easing: 'ease-in-out', // Smooth easing
+        once: true,       // Animate only once (recommended for performance)
+        offset: 100       // Trigger a bit earlier when scrolling
+    });
+</script>
 
     <!-- jquery -->
     <script src="{{ asset('html/assets2/all-study/assets/js/jquery-1.12.4.min.js')}}"></script>
