@@ -132,46 +132,31 @@
   			</div><!-- container -->
   		</div>
   		<div class="main-menu">
-  			<nav class="navbar ">
-			  <div class="container">
-			    <!-- Brand and toggle get grouped for better mobile display -->
-			    <div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="/"><img src="{{ asset('html/assets2/all-study/images/victory/vcc-logo.png')}}" alt="logo" width="60px" hieght="60px" class="img-responsive"></a>
-			    </div>
+	<nav class="navbar">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="/"><img src="{{ asset('html/assets2/all-study/images/victory/vcc-logo.png')}}" alt="VCC Logo" width="60" height="60" class="img-responsive"></a>
+			</div>
 
-				<!-- Collect the nav links, forms, and other content for toggling -->
-				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-					<ul class="nav navbar-nav">
-						<li class="dropdown">
-							<a href="/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
-						</li>
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Who We Are <span class="caret"></span></a>
-
-						</li>
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span class="caret"></span>Vision & Mission</a>
-
-						</li>
-
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Gallery <span class="caret"></span></a>
-
-						</li>
-						<li><a href="contact.html">Contact</a></li>
-
-
-					</ul>
-				</div><!-- /.navbar-collapse -->
-			  </div><!-- /.container -->
-			</nav>
-  		</div><!-- main menu -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="#home">Home</a></li>
+					<li><a href="#about">About Us</a></li>
+					<li><a href="#vision-mission">Vision & Mission</a></li>
+					<li><a href="#gallery">Gallery</a></li>
+					<li><a href="#contact">Contact</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+</div>
+        <!-- main menu -->
   	</header>
   	<!-- header End here -->
 
