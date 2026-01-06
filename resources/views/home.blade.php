@@ -227,7 +227,7 @@
 
 
   	<!-- Teachers Section -->
-  	<section class="teachers padding-120" data-aos="fade-up">
+  	{{-- <section class="teachers padding-120" data-aos="fade-up">
 		<div class="container">
 			<div class="section-header" data-aos="fade-down" data-aos-delay="100">
 				<h3>Meet Our Dedicated Teachers</h3>
@@ -272,7 +272,7 @@
 				</div>
 			</div>
 		</div>
-  	</section>
+  	</section> --}}
 
 
   	<!-- Fees Section -->
